@@ -50,6 +50,7 @@ header {
 
 .block1 {
     margin-top: 64px;
+    min-height: 597px;
     height: 100vh;
     background: linear-gradient(to bottom right, #7762D2 50%, #2A2A2A 50%);
 }
@@ -123,7 +124,7 @@ header {
 /*  Block 2*/
 
 .block2__title {
-    margin-top: 80px;
+    margin-top: 20px;
     text-align: center;
     font-size: 30px;
 }
