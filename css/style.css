@@ -63,25 +63,25 @@ header {
 
 @-webkit-keyframes pulsing {
     0% {
-        margin: 20px auto;
+        margin: 20px auto 20px auto;
     }
     50% {
-        margin: 25px auto;
+        margin: 25px auto 15px auto;
     }
     100% {
-        margin: 20px auto;
+        margin: 20px auto 20px auto;
     }
 }
 
 @keyframes pulsing {
     0% {
-        margin: 20px auto;
+        margin: 20px auto 20px auto;
     }
     50% {
-        margin: 25px auto;
+        margin: 25px auto 15px auto;
     }
     100% {
-        margin: 20px auto;
+        margin: 20px auto 20px auto;
     }
 }
 
